@@ -1,0 +1,19 @@
+[
+    {
+        "CountryBorderName": "ONLINE",
+        "CountryBorderPercentage": 45.9,
+        "NumberBorderStatusCase": 6,
+        "TotalBorderStatusCase": 514,
+        "CountryBorderHexColor": "#309AFF",
+        "CountryBorderID": 1
+    },
+   
+    {
+        "CountryBorderName": "OFFLINE",
+        "CountryBorderPercentage": 27,
+        "NumberBorderStatusCase": 0,
+        "TotalBorderStatusCase": 514,
+        "CountryBorderHexColor": "gray",
+        "CountryBorderID": 3
+    }
+]

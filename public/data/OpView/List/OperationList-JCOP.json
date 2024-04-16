@@ -1,0 +1,176 @@
+[
+    {
+    "operation_id": 1,
+    "operation_name": "SELANGOR",
+    "operation_type": "Banjir",
+    "logo": "img/icons/disaster/flood.png",
+    "location": "TAMAN SRI MUDA",
+    "duration": "1 JAN - 31 JAN 2023",
+    "status": "ACTIVE",
+    "status_id": 1,
+    "mission": "PROOF OF CONCEPT (POC)",
+    "description": "",
+    "windy_url": "https://www.windy.com/?3.185,101.668,13",
+    "geometry": {
+                "coordinates": [101.53507131086732, 3.029488931414104],
+                "type": "Point"
+                },
+    "fixed_site": [
+            {
+                "name": "SCS HQ",
+                "coordinates": [101.668, 3.185]
+            }
+        ],
+    "zoom_level": 15,
+    "organization_id": 2003,
+    "operation_members": [
+    20001
+    ],
+    "created_by_blue_track_id": 20013,
+    "organization_long_name": "SCS R&D",
+    "organization_name": "scsrnd"
+    },
+    {
+    "operation_id": 2,
+    "operation_name": "SELANGOR",
+    "operation_type": "Tanah Runtuh",
+    "logo": "img/icons/disaster/land-slide.png",
+    "location": "BUKIT ANTARABANGSA",
+    "duration": "1 JAN - 31 JAN 2023",
+    "status": "ACTIVE",
+    "status_id": 1,
+    "mission": "PROOF OF CONCEPT (POC)",
+    "description": "",
+    "windy_url": "https://www.windy.com/?3.185,101.668,13",
+    "geometry": {
+                "coordinates": [101.77309053884886, 3.2077630110059667],
+                "type": "Point"
+                },
+    "fixed_site": [
+            {
+                "name": "SCS HQ",
+                "coordinates": [101.668, 3.185]
+            }
+        ],
+    "zoom_level": 16,
+    "organization_id": 2003,
+    "operation_members": [
+    20001
+    ],
+    "created_by_blue_track_id": 20013,
+    "organization_long_name": "SCS R&D",
+    "organization_name": "scsrnd"
+    },
+    {
+        "operation_id": 3,
+        "operation_name": "PAHANG",
+        "operation_type": "Banjir",
+        "logo": "img/icons/disaster/flood.png",
+        "location": "TEMERLOH",
+        "duration": "14 JAN 2021 - 13 JAN 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "CONDUCT PEACEKEEPING OPERATION ACCORDING TO UNIFIL MANDATE.",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [102.456003700606, 3.404669991561757],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "TIBNINE",
+                "coordinates": [35.39348742389321, 33.191326339912585],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "MARRAKAH",
+                "coordinates": [35.31295271536937, 33.25753831770547 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 12,
+        "organization_id": 43000,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 1203,
+        "organization_long_name": "MALBATT",
+        "organization_name": "m"
+    },
+    {
+        "operation_id": 4,
+        "operation_name": "KELANTAN",
+        "operation_type": "Banjir",
+        "logo": "img/icons/disaster/flood.png",
+        "location": "KOTA BHARU",
+        "duration": "14 JAN 2021 - 13 JAN 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "CONDUCT PEACEKEEPING OPERATION ACCORDING TO UNIFIL MANDATE.",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [102.33110107941296, 6.1229035902232845],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "TIBNINE",
+                "coordinates": [35.39348742389321, 33.191326339912585],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "MARRAKAH",
+                "coordinates": [35.31295271536937, 33.25753831770547 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 11,
+        "organization_id": 43000,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 1203,
+        "organization_long_name": "MALBATT",
+        "organization_name": "m"
+    },
+    {
+        "operation_id": 5,
+        "operation_name": "JOHOR",
+        "operation_type": "Banjir",
+        "logo": "img/icons/disaster/flood.png",
+        "location": "SKUDAI",
+        "duration": "14 JAN 2021 - 13 JAN 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "CONDUCT PEACEKEEPING OPERATION ACCORDING TO UNIFIL MANDATE.",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [104.01288046323883, 1.5722995476407653],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "TIBNINE",
+                "coordinates": [35.39348742389321, 33.191326339912585],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "MARRAKAH",
+                "coordinates": [35.31295271536937, 33.25753831770547 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 10,
+        "organization_id": 43000,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 1203,
+        "organization_long_name": "MALBATT",
+        "organization_name": "m"
+    }
+   
+]

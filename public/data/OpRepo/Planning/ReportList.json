@@ -1,0 +1,54 @@
+[
+    {
+        "LabelShortName": "THAILAND",
+        "Coordinate": "POINT (101.720167 6.560833)",
+        "HexColor": "#F44336",
+        "ReportedDate": "03 JAN 2022 07:11",
+        "ReportedOrganization": "KEM 30 BGD",
+        "ReportedArea": "PLANNING MAP - MOVEMENT (1.4.2)",
+        "ReportedDescription": "Lorem ipsum dolor sit amet. Ut corrupti quisquam id impedit voluptas eum voluptate quia est molestiae dignissimos qui libero tenetur est temporibus nesciunt! Ab enim rerum sit velit exercitationem vel cumque molestias ex provident sint? A placeat numquam id dolor vero ab nostrum omnis.",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SITUASI PERSEMPADANAN",
+        "ReportItem3": "THAILAND",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1071,
+        "MediaTableTypeID": 1,
+        "Image": "img/planning/plan1.jpg"
+    },
+    {
+        "LabelShortName": "THAILAND",
+        "Coordinate": "POINT (100.739667 6.922833)",
+        "HexColor": "#F44336",
+        "ReportedDate": "07 JAN 2022 03:45",
+        "ReportedOrganization": "KEM 30 BGD",
+        "ReportedArea": "PLANNING MAP - CONTIGENCY PLAN (1.2.11)",
+        "ReportedDescription": "Lorem ipsum dolor sit amet. Ut corrupti quisquam id impedit voluptas eum voluptate quia est molestiae dignissimos qui libero tenetur est temporibus nesciunt! Ab enim rerum sit velit exercitationem vel cumque molestias ex provident sint? A placeat numquam id dolor vero ab nostrum omnis.",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SITUASI PERSEMPADANAN",
+        "ReportItem3": "THAILAND",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1072,
+        "MediaTableTypeID": 1,
+        "Image": "img/planning/plan3.jpg"
+    },
+    {
+        "LabelShortName": "FILIPINA",
+        "Coordinate": "POINT (101.720167 6.560833)",
+        "HexColor": "#FFEB3B",
+        "ReportedDate": "14 JAN 2022 12:45",
+        "ReportedOrganization": "KEM 30 BGD",
+        "ReportedArea": "PLANNING MAP - SEARCH AND RESCUE (1.0.4)",
+        "ReportedDescription": "Lorem ipsum dolor sit amet. Ut corrupti quisquam id impedit voluptas eum voluptate quia est molestiae dignissimos qui libero tenetur est temporibus nesciunt! Ab enim rerum sit velit exercitationem vel cumque molestias ex provident sint? A placeat numquam id dolor vero ab nostrum omnis.",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SITUASI PERSEMPADANAN",
+        "ReportItem3": "FILIPINA",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1071,
+        "MediaTableTypeID": 1,
+        "Image": "img/planning/plan10.jpg"
+    }
+   
+]

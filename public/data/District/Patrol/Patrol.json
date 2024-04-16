@@ -1,0 +1,7 @@
+[
+	{"Name": "ZON 1", "EntityId": 1,     "Active": 5, "Passive": 2, "Dispatch": 0,    "Personnel": 2, "MPV": 2, "URB": 0, "MOB": 0 },
+	{"Name": "ZON 2", "EntityId": 2,     "Active": 7, "Passive": 0, "Dispatch": 0,    "Personnel": 4, "MPV": 2, "URB": 1, "MOB": 1 },
+	{"Name": "ZON 3", "EntityId": 3,     "Active": 5, "Passive": 1, "Dispatch": 0,    "Personnel": 6, "MPV": 1, "URB": 4, "MOB": 1 },
+	{"Name": "ZON 4", "EntityId": 4,     "Active": 5, "Passive": 2, "Dispatch": 1,    "Personnel": 4, "MPV": 2, "URB": 1, "MOB": 1 },
+	{"Name": "ZON 5", "EntityId": 5,     "Active": 6, "Passive": 2, "Dispatch": 2,    "Personnel": 1, "MPV": 0, "URB": 0, "MOB": 1 }
+]

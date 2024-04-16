@@ -1,0 +1,32 @@
+
+
+  [
+     { "user_id":"pab@mkab", "blue_track_id":41001, "meeting_id":"pabmkab",       "organization_name":"mkab",  "appointmentId": 41001,   "userId": "pab@mkab",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"PANGLIMA ANGKATAN BERSAMA", "fullName":"PANGLIMA ANGKATAN BERSAMA", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "pab@mkab" },
+     { "user_id":"ks@mkab", "blue_track_id":41002, "meeting_id":"ksmkab",         "organization_name":"mkab",  "appointmentId": 41002,   "userId": "ks@mkab",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"KETUA STAF", "fullName":"KETUA STAF", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "ks@mkab" },
+     { "user_id":"pob1@mkab", "blue_track_id":41101, "meeting_id":"pob1mkab",     "organization_name":"mkab",  "appointmentId": 41101,   "userId": "pob1@mkab",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"C2 OPERATOR", "fullName":"PUSAT OPERASI BERSAMA", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "pob1@mkab" },
+     { "user_id":"pob2@mkab", "blue_track_id":41102, "meeting_id":"pob2mkab",     "organization_name":"mkab",  "appointmentId": 41102,   "userId": "pob2@mkab",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"C2 OPERATOR", "fullName":"PUSAT OPERASI BERSAMA", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "pob2@mkab" },
+     { "user_id":"ops1@scsrnd", "blue_track_id":20013, "meeting_id":"ops1scsrnd", "organization_name":"mkab",  "appointmentId": 20013,   "userId": "ops1@scsrnd",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"C2 OPERATOR", "fullName":"PUSAT OPERASI BERSAMA", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "ops1@scsrnd" },
+     { "user_id":"ops1@scshq", "blue_track_id":20011, "meeting_id":"ops1scshq",   "organization_name":"mkab",  "appointmentId": 20013,   "userId": "ops1@scshq",   "serviceName":"ANGKATAN TENTERA BERSAMA", "service":"ATB", "rank":"C2 OPERATOR", "fullName":"PUSAT OPERASI BERSAMA", "userImage":"img/logo/pob-logo.png", "logo":"img/logo/bg-atb.jpg", "userName": "ops1@scshq" }
+  ]
+
+
+  {
+   "organization_id": 41000,
+   "appointment_id": 41101,
+   "unit_id": 0,
+   "blue_track_id": 41101,
+   "blue_track_type_id": 0,
+   "extension": "41101",
+   "extension_password": "1234",
+   "is_signed_on": false,
+   "is_active": true,
+   "appointment_long_name": "Pusat Operasi Bersama 1",
+   "appointment_name": "pob1",
+   "blue_track_type_name": "Not Applicable",
+   "organization_long_name": "MK AB",
+   "organization_name": "mkab",
+   "unit_name": "Not Applicable",
+   "user_id": "pob1@mkab",
+   "user_label": "POB1@MKAB"
+   },
+

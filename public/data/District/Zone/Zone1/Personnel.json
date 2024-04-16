@@ -1,0 +1,219 @@
+[
+    {
+        "Name": "KPL 1676783 OMAR",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 036"
+    },
+    {
+        "Name": "KPL 1688363 KARIM",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 042"
+    },
+    {
+        "Name": "KPL 1766454 AZHAR",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 045"
+    },
+    {
+        "Name": "KPL 1655343 ZUL",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 014"
+    },
+    {
+        "Name": "KPL 1855363 NASRUL",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 025"
+    },
+    {
+        "Name": "KPL 1755636 RAZLAN",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 033"
+    },
+    {
+        "Name": "KPL 1955647 IBRAHIM",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 041"
+    },
+    {
+        "Name": "KPL 1644345 HAMID",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 052"
+    },
+    {
+        "Name": "KPL 1877456 AZFAR",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 061"
+    },
+    {
+        "Name": "KPL 1956373 AZMAN",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 057"
+    },
+    {
+        "Name": "KPL 1677749 FARID",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 048"
+    },
+    {
+        "Name": "KPL 1633422 ALIF",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 036"
+    },
+    {
+        "Name": "KPL 1899674 SAMAD",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 084"
+    },
+    {
+        "Name": "KPL 1866373 ARIF",
+        "ZoneCodeName": "ZONE 4",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 071"
+    },
+    {
+        "Name": "KPL 1633245 RASHID",
+        "ZoneCodeName": "ZONE 4",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 063"
+    },
+    {
+        "Name": "KPL 1600368 FIRDAUS",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 066"
+    },
+    {
+        "Name": "KPL 1899360 ZAHID",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 067"
+    },
+    {
+        "Name": "KPL 1388954 TARMIZI",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 068"
+    },
+    {
+        "Name": "KPL 1643553 FIZRIL",
+        "ZoneCodeName": "ZONE 4",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 079"
+    },
+    {
+        "Name": "KPL 1378847 KAMIL",
+        "ZoneCodeName": "ZONE 4",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 031"
+    },
+    {
+        "Name": "KPL 1671583 AIMAN",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 031"
+    },
+    {
+        "Name": "KPL 1299474 TAHAR",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 034"
+    },
+    {
+        "Name": "KPL 1753563 ZUHIR",
+        "ZoneCodeName": "ZONE 2",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 018"
+    },
+    {
+        "Name": "KPL 1864647 OSMAN",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "15:00 Hrs - 23:00 Hrs",
+        "RosterTypeID": 2,
+        "CallSign": "KL 019"
+    },
+    {
+        "Name": "KPL 1964674 ZAKI",
+        "ZoneCodeName": "ZONE 3",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 067"
+    },
+    {
+        "Name": "KPL 1184884 DOLLAH",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 092"
+    },
+    {
+        "Name": "KPL 1284894 ADAM",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 091"
+    },
+    {
+        "Name": "KPL 1688494 IDRIS",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 096"
+    },
+    {
+        "Name": "KPL 1699484 ISA",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "23:00 Hrs - 07:00 Hrs",
+        "RosterTypeID": 3,
+        "CallSign": "KL 084"
+    },
+    {
+        "Name": "KPL 1600042 MARZUKI",
+        "ZoneCodeName": "ZONE 4",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 062"
+    },
+    {
+        "Name": "KPL 18664674 NAZEER",
+        "ZoneCodeName": "ZONE 1",
+        "RosterTime": "07:00 Hrs - 15:00 Hrs",
+        "RosterTypeID": 1,
+        "CallSign": "KL 037"
+    }
+]

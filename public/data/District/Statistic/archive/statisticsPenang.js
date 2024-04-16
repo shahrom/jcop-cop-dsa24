@@ -1,0 +1,72 @@
+
+[
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.4533763329996425,"Lng":100.30443787268143,    "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/01/2018", "DispatchTime": "12:01:18 PM",               "IncidentLocation": "102, Jalan Patani, George Town, 10150 George Town, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.449445978614105,"Lng":100.31302094152909,     "DispatchCallSign": "MPV 6, URB7C",           "DispatchDate": "11/02/2018", "DispatchTime": "12:56:18 PM",               "IncidentLocation": "4, Jalan Kim Bian Aik, George Town, 10400 George Town, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.430819167052337,"Lng":100.30666947058182,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/03/2018", "DispatchTime": "3:45:16 PM",                "IncidentLocation": "14, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.4287684736832595,"Lng":100.31387924841385,    "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/04/2018", "DispatchTime": "10:33:11 AM",               "IncidentLocation": "19, Solok Sungai Pinang 4, George Town, 11600 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.418344007928179,"Lng":100.31611084631425,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/05/2018", "DispatchTime": "8:32:18 AM",                "IncidentLocation": "56, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.4157805871384594,"Lng":100.3276121585701,     "DispatchCallSign": "URB4C, URB3C, MPV 8",  "DispatchDate": "11/06/2018", "DispatchTime": "12:56:18 PM",               "IncidentLocation": "12A1, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysiau" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.411337298682062,"Lng":100.32623886755448,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/07/2018", "DispatchTime": "2:17:18 PM",                "IncidentLocation": "2, Jalan Sir Ibrahim, Taman Green Lane, 11600 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "RESPOND",  "Lat":5.4065521823026765,"Lng":100.32023071936112,    "DispatchCallSign": "MPV 3",                    "DispatchDate": "11/08/2018", "DispatchTime": "9:19:44 AM",                "IncidentLocation": "21, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "RESPOND",  "Lat":5.40997012643508,"Lng":100.31302094152909,      "DispatchCallSign": "MPV 3, URB7C",           "DispatchDate": "11/09/2018", "DispatchTime": "11:56:55 AM",               "IncidentLocation": "170, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "RESPOND",  "Lat":5.403646914617069,"Lng":100.30872940710526,     "DispatchCallSign": "MPV 3",                    "DispatchDate": "11/10/2018", "DispatchTime": "10:17:18 AM",               "IncidentLocation": "175, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    
+    {"IncidentTypeName": "RESPOND",  "Lat":5.395614631459775,"Lng":100.31181931189042,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/11/2018", "DispatchTime": "8:44:28 AM",                "IncidentLocation": "88, Jalan Anson, 10400 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.402279725001598,"Lng":100.32160401037675,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/12/2018", "DispatchTime": "10:56:29 AM",               "IncidentLocation": "6, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.390658488783995,"Lng":100.31473755529862,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/13/2018", "DispatchTime": "12:56:37 PM",               "IncidentLocation": "89, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.374764379218977,"Lng":100.31096100500565,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/14/2018", "DispatchTime": "9:56:18 AM",                "IncidentLocation": "90K, 1st Floor, Lorong Perak, 11500, Ayer Itam, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "RESPOND",  "Lat":5.366731714359397,"Lng":100.30598282507401,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/14/2018", "DispatchTime": "8:44:28 AM",                "IncidentLocation": "44, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.349811499895846,"Lng":100.30838608435135,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/13/2018", "DispatchTime": "10:56:29 AM",               "IncidentLocation": "18, Solok Rawana, Taman Free School, 10460 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.351007894086755,"Lng":100.29327988317948,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/12/2018", "DispatchTime": "12:56:37 PM",               "IncidentLocation": "4, Lintang Kampung Rawa 1, Kampung Rawa, 10150 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.339556596634984,"Lng":100.29516815832596,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/11/2018", "DispatchTime": "9:56:18 AM",                "IncidentLocation": "18, Lebuh Noordin, George Town, 10300 George Town, Pulau Pinang, Malaysia"
+  },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.3461720699782855,"Lng":100.27153015136719,    "DispatchCallSign": "MPV 6, URB7C",           "DispatchDate": "11/15/2018", "DispatchTime": "10:56:18 AM",               "IncidentLocation": "12A1, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "CONFERENCE",  "Lat":5.33459999854297,"Lng":100.2778303592537,       "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/16/2018", "DispatchTime": "9:23:18 AM",                "IncidentLocation": "112, Jalan Trengganu, Taman Free School, 10460 George Town, Pulau Pinang, Malaysia"
+   },
+    
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.384505979530295,"Lng":100.27920365026932,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/17/2018", "DispatchTime": "11:11:18 PM",               "IncidentLocation": "10300, Hutton Ln, 10300 George Town, Penang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.397323636788733,"Lng":100.2858984439705,      "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/18/2018", "DispatchTime": "7:56:22 PM",                "IncidentLocation": "68, Jalan Perak, George Town, 10450 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.4014252299251915,"Lng":100.28109192541581,    "DispatchCallSign": "URB4C, URB3C, MPV 8",  "DispatchDate": "11/19/2018", "DispatchTime": " 12:56:18 PM",              "IncidentLocation": "Lot 8, Jalan Dr Lim Chwee Leong, George Town, 10450 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.407064875153043,"Lng":100.31782746008378,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/20/2018", "DispatchTime": "12:15:18 PM",               "IncidentLocation": "89, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.409115642211768,"Lng":100.31027435949784,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/21/2018", "DispatchTime": "7:32:24 PM",                "IncidentLocation": "5, Solok Kebun Nyior, George Town, 10450 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "INSPECTION", "Lat":5.418685796544994,"Lng":100.30855774572831,     "DispatchCallSign": "MPV 6, URB7C",           "DispatchDate": "11/22/2018", "DispatchTime": "12:56:18 PM",               "IncidentLocation": "42, Jalan Anson, 10400 George Town, Pulau Pinang, Malaysia"
+  },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.410482816389793,"Lng":100.33053040197831,     "DispatchCallSign": "MPV 3",                    "DispatchDate": "11/23/2018", "DispatchTime": "11:56:41 PM",               "IncidentLocation": "65, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.4050141011466,"Lng":100.32263397863846,       "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/24/2018", "DispatchTime": "9:44:33 PM",                "IncidentLocation": "45, Lorong Seremban, George Town, 10150 George Town, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.416464167079074,"Lng":100.335336920533,       "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/25/2018", "DispatchTime": "3:23:43 PM",                "IncidentLocation": "2, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "MEETNGREET",    "Lat":5.418685796544994,"Lng":100.34151673010331,     "DispatchCallSign": "URB4C, URB3C, MPV 8",  "DispatchDate": "11/26/2018", "DispatchTime": "12:56:48 PM",               "IncidentLocation": "84, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    
+    {"IncidentTypeName": "MEETNGREET",    "Lat":5.421932778757274,"Lng":100.32263397863846,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/27/2018", "DispatchTime": "6:56:18 PM",                "IncidentLocation": "16, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia"
+   },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.430648276204736,"Lng":100.3111326663826,      "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/28/2018", "DispatchTime": "12:56:18 PM",               "IncidentLocation": "12, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.422616351734751,"Lng":100.30632614782792,     "DispatchCallSign": "MPV 3, URB7C",           "DispatchDate": "11/29/2018", "DispatchTime": "12:56:18 PM",               "IncidentLocation": "22, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "INSPECTION", "Lat":5.414755215777829,"Lng":100.30031799963456,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/30/2018", "DispatchTime": "2:56:18 PM",                "IncidentLocation": "34, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "INSPECTION", "Lat":5.40433050826763,"Lng":100.30443787268143,      "DispatchCallSign": "URB2C",                  "DispatchDate": "11/31/2018", "DispatchTime": "6:56:18 PM",                "IncidentLocation": "41, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.400741632996485,"Lng":100.28452515295487,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/26/2018", "DispatchTime": "12:15:18 PM",               "IncidentLocation": "52, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.404159609927316,"Lng":100.31576752356034,     "DispatchCallSign": "URB2C",                  "DispatchDate": "11/27/2018", "DispatchTime": "7:32:24 PM",                "IncidentLocation": "63, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "INSPECTION", "Lat":5.408261156781805,"Lng":100.31267761877518,     "DispatchCallSign": "MPV 6, URB7C",           "DispatchDate": "11/3/2018", "DispatchTime": "12:56:18 PM",                "IncidentLocation": "71, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "INSPECTION", "Lat":5.408261156781805,"Lng":100.32417893103104,     "DispatchCallSign": "MPV 3",                    "DispatchDate": "11/2/2018", "DispatchTime": "11:56:41 PM",                "IncidentLocation": "75, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.4178313246403285,"Lng":100.3137075870369,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/11/2018", "DispatchTime": "11:11:18 PM",               "IncidentLocation": "77, Medan Penaga, Kampung Batu Lanchang, 11600 George Town, Pulau Pinang, Malaysia"
+   },
+    
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.42911025639591,"Lng":100.31181931189042,      "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/8/2018", "DispatchTime": "7:56:22 PM",                 "IncidentLocation": "78, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.421249205005714,"Lng":100.30632614782792,     "DispatchCallSign": "URB4C",                  "DispatchDate": "11/19/2018", "DispatchTime": " 12:56:18 PM",              "IncidentLocation": "79, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.416805956759403,"Lng":100.3192007510994,      "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/2/2018", "DispatchTime": "12:15:18 PM",                "IncidentLocation": "85, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.413046259644979,"Lng":100.30546784094315,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/2/2018", "DispatchTime": "9:44:33 PM",                 "IncidentLocation": "88, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "STOPNTALK",  "Lat":5.408602951098581,"Lng":100.30443787268143,     "DispatchCallSign": "MPV 6",                    "DispatchDate": "11/8/2018", "DispatchTime": "3:23:43 PM",                 "IncidentLocation": "91, Jalan Tokong Batu, Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia" },
+    {"IncidentTypeName": "MEETNGREET",    "Lat":5.399887135751283,"Lng":100.31199097326737,     "DispatchCallSign": "URB8C",                  "DispatchDate": "11/26/2018", "DispatchTime": "2:56:48 PM",                "IncidentLocation": "202, Jalan Macalister, George Town, 11400 George Town, Pulau Pinang, Malaysia" }
+  
+  ]
+  
+  

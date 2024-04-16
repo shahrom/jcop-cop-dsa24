@@ -1,0 +1,68 @@
+{
+  "name": "jcop-cop-alpha",
+  "version": "0.1.0",
+  "homepage": ".",
+  "private": true,
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.22",
+    "@arcgis/core": "^4.21.1",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/styles": "^4.10.0",
+    "@reduxjs/toolkit": "^1.7.1",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "dms-to-decimal": "0.0.6",
+    "esri-loader": "^3.3.0",
+    "framer-motion": "^4.1.17",
+    "html-to-text": "^8.1.0",
+    "material-ui": "^0.20.2",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "rc-slider": "^10.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
+    "react-fit-to-viewport": "^0.1.1",
+    "react-horizontal-scrolling-menu": "^0.7.10",
+    "react-player": "^1.15.3",
+    "react-redux": "^7.2.6",
+    "react-responsive": "^8.2.0",
+    "react-scripts": "4.0.3",
+    "react-scroll-text": "^1.0.1",
+    "react-spring": "^8.0.27",
+    "react-swipeable-views": "^0.13.9",
+    "react-webcam": "^5.2.4",
+    "reaviz": "^8.3.0",
+    "recharts": "^2.0.0-beta.7",
+    "socket.io-client": "^2.3.1",
+    "utm-latlng": "^1.0.6",
+    "web-vitals": "^1.1.1",
+    "x-frame-bypass": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

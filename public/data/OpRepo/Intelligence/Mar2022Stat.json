@@ -1,0 +1,28 @@
+[
+    {
+        "CountryBorderName": "SIGHTING",
+        "CountryBorderPercentage": 45.9,
+        "NumberBorderStatusCase": 3,
+        "TotalBorderStatusCase": 514,
+        "CountryBorderHexColor": "#F44336",
+        "CountryBorderID": 1
+    },
+   
+    {
+        "CountryBorderName": "OBSERVATION",
+        "CountryBorderPercentage": 27,
+        "NumberBorderStatusCase": 1,
+        "TotalBorderStatusCase": 514,
+        "CountryBorderHexColor": "#4CAF50",
+        "CountryBorderID": 3
+    },
+    {
+        "CountryBorderName": "INCIDENT",
+        "CountryBorderPercentage": 12,
+        "NumberBorderStatusCase": 2,
+        "TotalBorderStatusCase": 514,
+        "CountryBorderHexColor": "#2196F3",
+        "CountryBorderID": 4
+    }
+   
+]

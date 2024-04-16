@@ -1,0 +1,37 @@
+[
+    {
+        "CountryBorderDayNo": "1 Oct 2021",
+        "CountryBorderName": "POST 1",
+        "CountryBorderDayCase": 12,
+        "CountryBorderHexColor": "#F44336",
+        "CountryBorderID": 1
+    },
+    {
+        "CountryBorderDayNo": "1 Oct 2021",
+        "CountryBorderName": "POST 2",
+        "CountryBorderDayCase": 2,
+        "CountryBorderHexColor": "#FFEB3B",
+        "CountryBorderID": 2
+    },
+    {
+        "CountryBorderDayNo": "1 Oct 2021",
+        "CountryBorderName": "POST 3",
+        "CountryBorderDayCase": 2,
+        "CountryBorderHexColor": "#4CAF50",
+        "CountryBorderID": 3
+    },
+    {
+        "CountryBorderDayNo": "1 Oct 2021",
+        "CountryBorderName": "POST 4",
+        "CountryBorderDayCase": 5,
+        "CountryBorderHexColor": "#2196F3",
+        "CountryBorderID": 4
+    },
+    {
+        "CountryBorderDayNo": "1 Oct 2021",
+        "CountryBorderName": "POST 5",
+        "CountryBorderDayCase": 7,
+        "CountryBorderHexColor": "#00BCD4",
+        "CountryBorderID": 5
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+    "operation_id": 1,
+    "operation_name": "SELANGOR",
+    "operation_type": "Banjir",
+    "logo": "img/logo/pob-logo.png",
+    "location": "TAMAN SRI MUDA",
+    "duration": "1 JAN - 31 JAN 2023",
+    "status": "ACTIVE",
+    "status_id": 1,
+    "mission": "PROOF OF CONCEPT (POC)",
+    "description": "",
+    "windy_url": "https://www.windy.com/?3.185,101.668,13",
+    "geometry": {
+                "coordinates": [101.53507131086732, 3.029488931414104],
+                "type": "Point"
+                },
+    "fixed_site": [
+            {
+                "name": "SCS HQ",
+                "coordinates": [101.668, 3.185]
+            }
+        ],
+    "zoom_level": 15,
+    "organization_id": 2003,
+    "operation_members": [
+    20001
+    ],
+    "created_by_blue_track_id": 20013,
+    "organization_long_name": "SCS R&D",
+    "organization_name": "5rs"
+    },
+    {
+    "operation_id": 2,
+    "operation_name": "SELANGOR",
+    "operation_type": "Tanah Runtuh",
+    "logo": "img/logo/pob-logo.png",
+    "location": "BUKIT ANTARABANGSA",
+    "duration": "1 JAN - 31 JAN 2023",
+    "status": "ACTIVE",
+    "status_id": 1,
+    "mission": "PROOF OF CONCEPT (POC)",
+    "description": "",
+    "windy_url": "https://www.windy.com/?3.185,101.668,13",
+    "geometry": {
+                "coordinates": [101.77164214598078, 3.2074754600172306],
+                "type": "Point"
+                },
+    "fixed_site": [
+            {
+                "name": "SCS HQ",
+                "coordinates": [101.668, 3.185]
+            }
+        ],
+    "zoom_level": 16,
+    "organization_id": 2003,
+    "operation_members": [
+    20001
+    ],
+    "created_by_blue_track_id": 20013,
+    "organization_long_name": "SCS R&D",
+    "organization_name": "5rs"
+    },
+    {
+        "operation_id": 19,
+        "operation_name": "KEDAH",
+        "operation_type": "Tanah Runtuh",
+        "logo": "img/logo/malbatt-850-logo.png",
+        "location": "LANGKAWI, KEDAH",
+        "duration": "23 - 27 MAY 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "OP LIMA 2023",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [99.77778988825182, 6.33097894650857],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "COMMAND HQ",
+                "coordinates": [99.78112119184794, 6.3235668290600675],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "INCIDENT AREA",
+                "coordinates": [99.78650706754999, 6.328194792941566 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 16,
+        "organization_id": 19001,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 19101,
+        "organization_long_name": "Batalion le-5 Rejimen Sempadan",
+        "organization_name": "5rs",
+        "meeting_id":"ops15rs",
+        "vc_rooms":
+        [
+            {
+                "name": "PUBLIC",
+                "room": "public",
+                "url": "https://vc.sdev.my/public"
+            },
+            {
+                "name": "LIMA23",
+                "room": "lima23",
+                "url": "https://vc.sdev.my/lima23"
+            },
+            {
+                "name": "DEMO",
+                "room": "demo",
+                "url": "https://vc.sdev.my/demo"
+            }
+        ],
+        "vc_url": "https://vc.sdev.my/"
+    },
+    {
+        "operation_id": 4,
+        "operation_name": "KELANTAN",
+        "operation_type": "Banjir",
+        "logo": "img/logo/malbatt-850-logo.png",
+        "location": "KOTA BHARU",
+        "duration": "14 JAN 2021 - 13 JAN 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "CONDUCT PEACEKEEPING OPERATION ACCORDING TO UNIFIL MANDATE.",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [102.23616262658463, 6.134702804160522],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "TIBNINE",
+                "coordinates": [35.39348742389321, 33.191326339912585],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "MARRAKAH",
+                "coordinates": [35.31295271536937, 33.25753831770547 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 14,
+        "organization_id": 43000,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 1203,
+        "organization_long_name": "MALBATT",
+        "organization_name": "5rs"
+    },
+    {
+        "operation_id": 5,
+        "operation_name": "JOHOR",
+        "operation_type": "Banjir",
+        "logo": "img/logo/malbatt-850-logo.png",
+        "location": "SKUDAI",
+        "duration": "14 JAN 2021 - 13 JAN 2023",
+        "status": "ACTIVE",
+        "status_id": 1,
+        "mission": "CONDUCT PEACEKEEPING OPERATION ACCORDING TO UNIFIL MANDATE.",
+        "description": "",
+        "windy_url": "https://www.windy.com/?33.796,35.604,9",
+        "geometry": {
+            "coordinates": [103.66003799657256, 1.5398014481336106],
+            "type": "Point"
+        },
+        "fixed_site": [
+            {
+                "name": "TIBNINE",
+                "coordinates": [35.39348742389321, 33.191326339912585],
+                "symbol-img":"img/icon/fixedSite/tibnine.png"
+            },
+            {
+                "name": "MARRAKAH",
+                "coordinates": [35.31295271536937, 33.25753831770547 ],
+                "symbol-img":"img/icon/fixedSite/marrakah.png"
+            }
+        ],
+        "zoom_level": 14,
+        "organization_id": 43000,
+        "operation_members": [
+        41001
+        ],
+        "created_by_blue_track_id": 1203,
+        "organization_long_name": "MALBATT",
+        "organization_name": "5rs"
+    }
+   
+]

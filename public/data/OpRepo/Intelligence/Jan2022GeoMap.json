@@ -1,0 +1,37 @@
+[
+    {
+        "TacticalType": "OBSERVATION",
+        "Coordinate": "POINT (102.519167 4.5985)",
+        "HexColor": "#FFEB3B",
+        "ReportedDate": "13 OCT 2021 00:00",
+        "ReportedOrganization": "TD",
+        "ReportedArea": "TESTING 2",
+        "ReportedDescription": "TESTING TESTING TESTING\r\n TESTING\r\n TESTING\r\n TESTING\r\nTESTING\r\nTESTING",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "OBSERVATION",
+        "ReportItem3": "TNI",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 2,
+        "ReportID": 1842,
+        "MediaTableTypeID": 1,
+        "TacticalTypeID": 1
+    },
+    {
+        "TacticalType": "SIGHTING",
+        "Coordinate": "POINT (110.633667 1.800167)",
+        "HexColor": "#4CAF50",
+        "ReportedDate": "03 JAN 2022 15:00",
+        "ReportedOrganization": "3 BGD",
+        "ReportedArea": "BERDEKATAN KG JANGKANG",
+        "ReportedDescription": "",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SIGHTING",
+        "ReportItem3": "PATI",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1764,
+        "MediaTableTypeID": 1,
+        "TacticalTypeID": 2
+    }
+   
+]

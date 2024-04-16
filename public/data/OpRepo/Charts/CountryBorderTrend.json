@@ -1,0 +1,1262 @@
+[
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "1 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "2 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "3 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "4 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "5 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "6 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "7 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "8 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 3,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "9 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "10 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 3,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "11 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 3,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "12 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "13 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "14 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 5,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "15 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "16 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "17 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "18 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "19 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "20 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 4,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "21 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "22 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "23 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "24 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 2,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "25 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "26 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "27 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "28 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "29 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penyeludupan",
+        "CrossBorderCrimeTypeDayCase": 1,
+        "CrossBorderCrimeTypeHexColor": "#2196F3",
+        "CrossBorderCrimeTypeID": 1
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "PATI",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#F44336",
+        "CrossBorderCrimeTypeID": 2
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "Penculikan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FFEB3B",
+        "CrossBorderCrimeTypeID": 3
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "Rompakan Laut",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#4CAF50",
+        "CrossBorderCrimeTypeID": 4
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "Pencerobohan",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#00BCD4",
+        "CrossBorderCrimeTypeID": 5
+    },
+    {
+        "CrossBorderCrimeTypeDayNo": "30 Oct 2021",
+        "CrossBorderCrimeTypeName": "Lain-lain",
+        "CrossBorderCrimeTypeDayCase": 0,
+        "CrossBorderCrimeTypeHexColor": "#FF9800",
+        "CrossBorderCrimeTypeID": 6
+    }
+]

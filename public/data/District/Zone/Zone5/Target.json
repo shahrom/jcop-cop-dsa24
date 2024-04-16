@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Alpha VIlla Apartment",
+        "Location": "9, Jalan Wangsa Perdana 1, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "Value": 7,
+        "Latitude": 3.201340283067876,
+        "Longitude": 101.73517356138223
+    },
+    {
+        "Name": "Desa Putra Condominium",
+        "Location": "Jalan 8/27a, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "Value": 6,
+        "Latitude": 3.1998628938572664,
+        "Longitude": 101.73782408237457
+    },
+    {
+        "Name": "Stesen Putra LRT Sri Rampai",
+        "Location": "Wangsa Maju, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+        "Value": 9,
+        "Latitude": 3.199091621740158,
+        "Longitude": 101.7373251914978
+    },
+    {
+        "Name": "Rampai Court Apartment",
+        "Location": "Jalan 46/26, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "Value": 7,
+        "Latitude": 3.1938748076071115,
+        "Longitude": 101.73310339450836
+    },
+    {
+        "Name": "Hong Leong Bank Berhad",
+        "Location": "No. 2, Jalan Rampai Niaga 1, Rampai Business Park, Taman Sri Rampai, Wilayah Persekutuan, Rampai Business Park, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+        "Value": 6,
+        "Latitude": 3.1971687949773293,
+        "Longitude": 101.72757267951965
+    },
+    {
+        "Name": "Shell Gas Station",
+        "Location": "Jalan 2/27a, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "Value": 9,
+        "Latitude": 3.1987113415243584,
+        "Longitude": 101.72663390636444
+    }
+]

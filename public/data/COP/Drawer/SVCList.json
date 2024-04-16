@@ -1,0 +1,19 @@
+[
+    {
+        "blue_track_id":22199,
+        "user_id":"user1@atb2",
+        "meeting_id":"user1atb2"
+    },
+    {
+        "blue_track_id":22199,
+        "user_id":"user2@atb2",
+        "meeting_id":"user2atb2"
+    },
+    {
+        "blue_track_id":22199,
+        "user_id":"user3@atb2",
+        "meeting_id":"user3atb2"
+    }
+   
+]
+

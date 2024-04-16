@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "LabelShortName": "THAILAND",
+        "Coordinate": "POINT (101.720167 6.560833)",
+        "HexColor": "#F44336",
+        "ReportedDate": "26 APR 2022 07:11",
+        "ReportedOrganization": "KEM 30 BGD",
+        "ReportedArea": "VIEWSHED ANALYSIS (1.2.0)",
+        "ReportedDescription": "Lorem ipsum dolor sit amet. Ut corrupti quisquam id impedit voluptas eum voluptate quia est molestiae dignissimos qui libero tenetur est temporibus nesciunt! Ab enim rerum sit velit exercitationem vel cumque molestias ex provident sint? A placeat numquam id dolor vero ab nostrum omnis.",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SITUASI PERSEMPADANAN",
+        "ReportItem3": "THAILAND",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1071,
+        "MediaTableTypeID": 1,
+        "Image": "img/planning/plan1.jpg"
+    },
+    {
+        "Id": 2,
+        "LabelShortName": "THAILAND",
+        "Coordinate": "POINT (100.739667 6.922833)",
+        "HexColor": "#F44336",
+        "ReportedDate": "26 APR 2022 08:45",
+        "ReportedOrganization": "KEM 30 BGD",
+        "ReportedArea": "LINE OF SIGHT ANALYSIS (2.4.1)",
+        "ReportedDescription": "Lorem ipsum dolor sit amet. Ut corrupti quisquam id impedit voluptas eum voluptate quia est molestiae dignissimos qui libero tenetur est temporibus nesciunt! Ab enim rerum sit velit exercitationem vel cumque molestias ex provident sint? A placeat numquam id dolor vero ab nostrum omnis.",
+        "ReportItem1": "TAKTIKAL",
+        "ReportItem2": "SITUASI PERSEMPADANAN",
+        "ReportItem3": "THAILAND",
+        "ReportItem4": "",
+        "ReportedNumberMediaAttachment": 0,
+        "ReportID": 1072,
+        "MediaTableTypeID": 1,
+        "Image": "img/planning/plan3.jpg"
+    }
+]
